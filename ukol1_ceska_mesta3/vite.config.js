@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react';
 export default defineConfig({
   base: '/ukol1-pages/',
   root: './src',
-  publicDir: '../public',
+  publicDir: '../../public',
   server: {
     hmr: false,
   },
