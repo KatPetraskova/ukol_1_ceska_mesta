@@ -1,4 +1,4 @@
-export const cities = [
+const cities = [
     {
       name: 'Praha',
       photo:
@@ -4865,3 +4865,4 @@ export const cities = [
     },
   ];
   
+export default cities;  
